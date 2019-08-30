@@ -10,6 +10,8 @@ c=a+b;
 d=a-b;
 printf("result is %d\n",c);
 printf("result is %d\n",d);
+printF("hello friend";
+printf("hello hello hai");
 return 0;
 
 }
